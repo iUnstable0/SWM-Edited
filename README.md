@@ -24,7 +24,7 @@ Edited version of Script-Ware M (Modded)
 
 # Features
 
-List of features of the modden Script-Ware that official Script-Ware doesn't have!
+List of features of the modded Script-Ware that official Script-Ware doesn't have!
 
 - Better autocompletion
 - Supports roblox and exploit functions (Syntax highlighting and autocompletion)
