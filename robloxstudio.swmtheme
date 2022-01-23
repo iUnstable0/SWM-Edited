@@ -1,0 +1,68 @@
+{
+    "name": "Roblox Studio",
+    "author": "Unstable0",
+    "vars": {
+        "accent": "#ffc800",
+        "background": "#1e1e1e",
+        "background-2": "#1f2936",
+        "background-3": "#454134",
+        "text": "#cccccc",
+        "text-on-accent": "#3d3d3d"
+    },
+    "monacoTheme": {
+        "base": "vs-dark",
+        "inherit": true,
+        "rules": [
+            {
+                "foreground": "#cccccc",
+                "token": "operator"
+            },
+            {
+                "foreground": "#cccccc",
+                "token": "text"
+            },
+            {
+                "foreground": "#ffc800",
+                "token": "number"
+            },
+            {
+                "foreground": "#aef195",
+                "token": "string"
+            },
+            {
+                "foreground": "#666666",
+                "token": "comment",
+                "fontStyle": "italic"
+            },
+            {
+                "foreground": "#84d6f7",
+                "token": "global"
+            },
+            {
+                "foreground": "#f86d7b",
+                "token": "keyword"
+            },
+            {
+                "foreground": "#84d6f7",
+                "token": "type"
+            },
+            {
+                "foreground": "#ffc800",
+                "token": "bool"
+            },
+            {
+                "foreground": "#6ccc9e",
+                "token": "exglobal"
+            }
+        ],
+        "colors": {
+            "editor.foreground": "#cccccc",
+            "editor.background": "#252525",
+            "editor.selectionBackground": "#0b5aaf",
+            "editor.lineHighlightBackground": "#2d3241",
+            "editorCursor.foreground": "#ffffff",
+            "editorWhitespace.foreground": "#555555"
+        }
+    },
+    "customCSS": ""
+}
