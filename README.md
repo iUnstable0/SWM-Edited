@@ -2,6 +2,8 @@
 
 Edited version of Script-Ware M (Modded)
 
+Watch this repository so when I update, you'll get notified.
+
 # How to install
 
 ## Installing the mod
