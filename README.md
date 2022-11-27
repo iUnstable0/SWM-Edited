@@ -22,7 +22,7 @@ Watch this repository so when I update, you'll get notified.
 4. Restart Script-Ware
 5. Select the installed theme
 
-**I recommended using my theme and the mod or else some things will look unusual**
+**I recommended using my theme and the mod or else stuff will look weird
 
 # Features
 
