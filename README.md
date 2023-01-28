@@ -1,5 +1,7 @@
 # SWM-Edited
 
+THIS IS OLD!!! I CBA TO UPDATE
+
 Edited version of Script-Ware M (Modded)
 
 Watch this repository so when I update, you'll get notified.
